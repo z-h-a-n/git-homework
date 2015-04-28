@@ -1,0 +1,7 @@
+git init
+
+git satus
+
+git add fileName
+
+git commit -m "Adding git-test questions?"
